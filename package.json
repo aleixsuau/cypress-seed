@@ -4,21 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "yarn cypress open"
+    "test": "npx cypress open"
   },
   "repository": {
-    "url": "https://github.com/sperry94/cypress-seed"
+    "url": "https://github.com/aleixsuau/cypress-seed"
   },
-  "author": "Seth Perry",
+  "author": "Aleix Suau",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sperry94/cypress-seed/issues"
-  },
-  "homepage": "https://github.com/sperry94/cypress-seed",
-  "dependencies": {
-    "chai": "^4.2.0",
-    "cypress": "^3.2.0",
-    "cypress-pipe": "^1.3.3",
-    "mocha": "^6.0.2"
+  "homepage": "https://github.com/aleixsuau/cypress-seed",
+  "devDependencies": {
+    "cypress": "^10.10.0",
+    "cypress-wait-if-happens": "^1.3.3"
   }
 }

@@ -5,11 +5,6 @@ This project is a starting point to create a typescript cypress testing project.
 ## Getting started
 
 1. Clone the repo to your machine.
-2. Run `yarn` in the repo directory.
-3. Run `yarn cypress open` in the repo directory.
-4. Use the cypress UI to run the test, verifying that it passes.
-5. Modify the `cypress.json` file to point to the website you'd like to test.
-6. Start testing!
-
-
-NOTE: The `docs` folder can be deleted. It is only present to enable the initial demo test to run.
+2. Run `npm install` in the repo directory.
+3. Run `npx cypress open --e2e --browser chrome` in the repo directory.
+4. Run a test by clicking on it in the Cypress UI.
