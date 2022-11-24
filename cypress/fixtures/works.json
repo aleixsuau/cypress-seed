@@ -1,0 +1,163 @@
+[
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      },
+      {
+        "icon": "edit",
+        "title": "design"
+      }
+    ],
+    "description": "Code of this portfolio Angular app.",
+    "id": "1",
+    "illustration": {
+      "author": "Khyati Trehan",
+      "link": "https://wepresent.wetransfer.com/story/khyati-trehan/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/2P9Phed9zwojH6Ly1A9Pv2/cc86e36792d6b78eae6c69914bbf6231/Scientific_Diagrams_W.jpg?w=450",
+    "link": "https://stackblitz.com/edit/portfolio-underconstruction",
+    "title": "Portfolio"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "MatxConfirmButton is a small library that provides the confirm button functionality (shows a confirm dialog before fire the action) in the form of component or directive.",
+    "id": "2",
+    "illustration": {
+      "author": "wepresent",
+      "link": "https://wepresent.wetransfer.com/story/football-crest-index/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/31kaQjkIx24aQS60EkSa26/797ad2ef4eaa8eefa16141e7ebcbc87c/fci_thumb.jpg?w=450",
+    "link": "https://stackblitz.com/edit/confirm-button-attribute?embed=1&file=src/app/matx-confirm/matx-confirm.module.ts",
+    "title": "Matx Confirm button"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      },
+      {
+        "icon": "edit",
+        "title": "design"
+      }
+    ],
+    "description": "Experimenting with maps for Essentialist.com",
+    "id": "9",
+    "illustration": {
+      "author": "Jan Buchczik",
+      "link": "https://wepresent.wetransfer.com/story/jan-buchczik-coursica/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/Qko6IeE5s4qS4AmOW6Ay8/07ad8456d170e03358c9730c6059a958/_0078_ofcoursica2gl_1920x1200.jpg?w=450",
+    "link": "https://stackblitz.com/edit/playing-with-google-maps",
+    "title": "Playing with Google Maps"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "NgxMediumPosts is a small library that allows you to show your Medium posts right in your Angular app.",
+    "id": "3",
+    "illustration": {
+      "author": "wemadethis",
+      "link": "https://wepresent.wetransfer.com/story/andy-rementer-summer-love/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/4BXyaen1pKiWeIYw2wy2qI/a30bf0db235238a2b1e6f0127fbb58d9/_0169_CROWD_2.jpg?w=450",
+    "link": "https://stackblitz.com/edit/ngx-medium-posts-widget?embed=1&file=src/app/ngx-medium-widget/component/medium-widget/medium-widget.component.ts",
+    "title": "Ngx Medium Posts"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "Examples about the possibilities and limitations of every type of directive.",
+    "id": "4",
+    "illustration": {
+      "author": "Andrey Kasay",
+      "link": "https://wepresent.wetransfer.com/story/andrey-kasay/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/3CrMZTCDUcQIakS0cqUgmE/4dff9958ed7ca3738f5f17eaebe64989/_0197_andkas1gl_1920x1200_2.jpg?w=450",
+    "link": "https://stackblitz.com/edit/help-hint?embed=1&file=app/app.component.ts",
+    "title": "Matx Help Hint: Directives explorations"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "This Stackblitz is a flexbox playground, a place where you can try the different CSS flexbox possibilities without coding a single line.",
+    "id": "5",
+    "illustration": {
+      "author": "wepresent",
+      "link": "https://wepresent.wetransfer.com/story/graphic-design-looking-good/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/4Cba2z9BqEqcIsmEWECEaK/7c75181c1111a84efd8dbe7e37d8e440/_0025_unnamed_2.jpg?w=450",
+    "link": "https://stackblitz.com/edit/flex-layout-possibilities?embed=1&file=app/app.component.html",
+    "title": "Flex Layout Possibilities"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "3 samples of useful flexbox designs.",
+    "id": "6",
+    "illustration": {
+      "author": "David Galasse",
+      "link": "https://wepresent.wetransfer.com/story/david-galasse/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/3Ajb7XM4fmQKokuY4kOOi6/29aa1c05d77077665f389be3195053e1/_0165_davgal4gl_1920x1200_2.jpg?w=450",
+    "link": "https://stackblitz.com/edit/flexlayout-3-designs?embed=1&file=app/app.component.html",
+    "title": "3 Flex designs"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "A simple service to deep copy objects.",
+    "id": "7",
+    "illustration": {
+      "author": "Olf de Bruin",
+      "link": "http://wepresent.wetransfer.com/story/olf-de-bruin-van-bollebast-tot-voortprinter/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/35rpuRjKGQssYYgOAK2AsY/d0abee1ce245f91f4c3684a88fb22fdf/_0024_vbtv_03_2.jpg?w=450",
+    "link": "https://stackblitz.com/edit/angular-clone-deep-copy?embed=1&file=app/clone.service.ts",
+    "title": "Deep Copy"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "Extract passport and identity card information with MRZ and Google Vision.",
+    "id": "8",
+    "illustration": {
+      "author": "Raúl Soria",
+      "link": "http://wepresent.wetransfer.com/story/raul-soria/"
+    },
+    "image": "https://images.ctfassets.net/5jh3ceokw2vz/5DP2UErBCwEYI00aoiA0Y0/b59a8df16e4a288a9a782d958c65b395/_0065_RaulSoria_comfort_2.jpg?w=450",
+    "link": "https://stackblitz.com/edit/angular-passport-reader?embed=1&file=app/app.component.ts",
+    "title": "Passport & Identity Card reader"
+  }
+]

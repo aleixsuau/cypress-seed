@@ -1,0 +1,125 @@
+[
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "Work offline, send push notifications, installed to the home screen...",
+    "id": "8",
+    "illustration": {
+      "author": "Unknown",
+      "link": ""
+    },
+    "image": "https://cdn1.scalablepath.com/_next/image?url=https%3A%2F%2Fcdn-blog.scalablepath.com%2Fuploads%2F2020%2F02%2Fprogressive-web-apps-744x400-1.png&w=1200&q=75",
+    "link": "https://www.scalablepath.com/javascript/progressive-web-apps",
+    "title": "Progressive Web Applications"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "Going beyond the boundaries...",
+    "id": "1",
+    "illustration": {
+      "author": "Unknown",
+      "link": ""
+    },
+    "image": "https://miro.medium.com/max/1400/1*xbHtXEtu-Liwnt3CCOzGwA.png",
+    "link": "https://medium.com/angular-in-depth/squeezing-angular-directives-8ab7b1e4e3ba",
+    "title": "Squeezing Angular Directives"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      },
+      {
+        "icon": "edit",
+        "title": "design"
+      }
+    ],
+    "description": "Easy flexbox with superpowers",
+    "id": "2",
+    "illustration": {
+      "author": "Jesús Sotes",
+      "link": "https://www.jesussotes.com"
+    },
+    "image": "https://miro.medium.com/max/1400/1*Ogq3I6dAZG_pxEh-Nyd4vg.png",
+    "link": "https://medium.com/angular-in-depth/angular-flex-layout-the-masquerade-58fb58d0ab45",
+    "title": "Angular Flex Layout: The Masquerade"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "Shit happens, deal with it",
+    "id": "9",
+    "illustration": {
+      "author": "Unknown",
+      "link": ""
+    },
+    "image": "https://miro.medium.com/max/1400/1*jhH41C1c7VNBp6iTX58Xaw.jpeg",
+    "link": "https://medium.com/@aleixsuau/error-handling-angular-859d529fa53a",
+    "title": "Error Handling & Angular"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "Motion helps to understand with beauty",
+    "id": "3",
+    "illustration": {
+      "author": "Unknown",
+      "link": ""
+    },
+    "image": "https://miro.medium.com/max/1400/1*uKGvgnwyGEiEdQYTczAKyw.png",
+    "link": "https://medium.com/@aleixsuau/angular-animations-bring-life-to-your-apps-ca122e5db647",
+    "title": "Angular & Animations: bring life to your apps"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "Components with Material Dialog (MdDialog)",
+    "id": "4",
+    "illustration": {
+      "author": "",
+      "link": ""
+    },
+    "image": "https://miro.medium.com/max/1400/1*oDyjBIyLHVZbcUv8b69bug.png",
+    "link": "https://medium.com/@aleixsuau/testing-angular-components-with-material-dialog-mddialog-1ae658b4e4b3",
+    "title": "Testing Angular"
+  },
+  {
+    "categories": [
+      {
+        "icon": "code",
+        "title": "code"
+      }
+    ],
+    "description": "How to use theme colors in your components ($primary, $accent and $warn)",
+    "id": "5",
+    "illustration": {
+      "author": "Unknown",
+      "link": ""
+    },
+    "image": "https://miro.medium.com/max/1400/1*l3wujEgEKOecwVzf_dqVrQ.jpeg",
+    "link": "https://medium.com/@aleixsuau/how-to-use-angular-material-2-sass-variables-in-your-components-76ce0203f126",
+    "title": "Theming Angular Material"
+  }
+]
