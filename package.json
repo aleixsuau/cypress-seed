@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx cypress open"
+    "test": "npx cypress open --e2e --browser chrome"
   },
   "repository": {
     "url": "https://github.com/aleixsuau/cypress-seed"
