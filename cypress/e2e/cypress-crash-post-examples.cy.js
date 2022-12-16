@@ -143,5 +143,18 @@ describe('Cypress Crash Post', () => {
 
       cy.wait('@getWorks').its('response.statusCode').should('equal', 404);
     });
+
+    it('should modify API responses', () => {
+      cy.intercept('GET', '/works.json', (request) => {
+        request.reply((response) => {
+          response.body.length = 0;
+          
+          return response;
+        });
+      }).as('getWorks');
+      cy.visit('');
+
+      cy.wait('@getWorks').its('response.body').should('have.length', 0);
+    });
   });
 });
